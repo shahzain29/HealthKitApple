@@ -1,0 +1,14 @@
+com/healthkit/MainActivity.java
+ com.healthkit.MainActivity
+com/healthkit/MainApplication.java
+ com.healthkit.MainApplication
+ com.healthkit.MainApplication$1
+com/healthkit/ReactNativeFlipper.java
+ com.healthkit.ReactNativeFlipper
+ com.healthkit.ReactNativeFlipper$1
+ com.healthkit.ReactNativeFlipper$2
+ com.healthkit.ReactNativeFlipper$2$1
+com/healthkit/BuildConfig.java
+ com.healthkit.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
